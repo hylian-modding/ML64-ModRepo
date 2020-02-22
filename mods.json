@@ -3,5 +3,20 @@
         "name": "Ocarina of Time Online",
         "url": "https://nexus.inpureprojects.info/ModLoader64/mods/Ooto/update/update.json",
         "git": "https://github.com/hylian-modding/OcarinaOfTimeOnline"
+    },
+    "zzplayas_Malon": {
+        "name": "zzplayas Malon (N64)",
+        "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/malon/update/update.json",
+        "git": ""
+    },
+    "zzplayas_MM": {
+        "name": "zzplayas Majora's Mask Link / Fierce Deity",
+        "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/mm/update/update.json",
+        "git": ""
+    },
+    "zzplayas_PSO_nurse": {
+        "name": "zzplayas Phantasy Star Online Nurse",
+        "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/pso_nurse/update/update.json",
+        "git": ""
     }
 }
