@@ -18,5 +18,45 @@
         "name": "zzplayas Phantasy Star Online Nurse",
         "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/pso_nurse/update/update.json",
         "git": ""
+    },
+    "RainbowGauntlets": {
+    	"name": "Rainbow Gauntlets",
+    	"url": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins/blob/master/RainbowGauntlets/update.json",
+    	"git": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins"
+    },
+    "RainbowEverything": {
+    	"name": "Rainbow Everything",
+    	"url": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins/blob/master/RainbowEverything/update.json",
+    	"git": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins"
+    },
+    "RainbowTunic": {
+    	"name": "Rainbow Tunic",
+    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/RainbowTunic/update.json",
+    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+    },
+    "HPTunic": {
+    	"name": "HP Tunic",
+    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/RainbowTunic/update.json",
+    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+    },
+    "FastLink": {
+    	"name": "Fast Link",
+    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/FastLink/update.json",
+    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+    },
+    "BanjoKazooieQuakeMovement": {
+    	"name": "Banjo Kazooie Quake Physics",
+    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/BanjoKazooieQuakeMovement/update.json",
+    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+    },
+    "OotQuakeMovement": {
+    	"name": "Ocarina of Time Quake Physics",
+    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/OotQuakeMovement/update.json",
+    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+    },
+    "SM64QuakeMovement": {
+    	"name": "Super Mario 64 Quake Physics",
+    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/SM64QuakeMovement/update.json",
+    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
     }
 }
