@@ -21,13 +21,13 @@
     },
     "RainbowGauntlets": {
     	"name": "Rainbow Gauntlets",
-    	"url": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins/blob/master/RainbowGauntlets/update.json",
-    	"git": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins"
+    	"url": "https://github.com/hylian-modding/ML64-ModRepo/Mods/RainbowGauntlets/update.jsonupdate.json",
+    	"git": "https://github.com/hylian-modding/ML64-ModRepo"
     },
     "RainbowEverything": {
     	"name": "Rainbow Everything",
-    	"url": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins/blob/master/RainbowEverything/update.json",
-    	"git": "https://github.com/PapaSmurf-ML64/OoTOnline-Plugins"
+    	"url": "https://github.com/hylian-modding/ML64-ModRepo/Mods/RainbowEverything/update.json",
+    	"git": "https://github.com/hylian-modding/ML64-ModRepo"
     },
     "RainbowTunic": {
     	"name": "Rainbow Tunic",
