@@ -24,117 +24,129 @@
         "git": ""
     },
     "RainbowGauntlets": {
-    	"name": "Rainbow Gauntlets",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/hylian-modding/ML64-ModRepo/Mods/RainbowGauntlets/update.jsonupdate.json",
-    	"git": "https://github.com/hylian-modding/ML64-ModRepo"
+        "name": "Rainbow Gauntlets",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/hylian-modding/ML64-ModRepo/Mods/RainbowGauntlets/update.jsonupdate.json",
+        "git": "https://github.com/hylian-modding/ML64-ModRepo"
     },
     "RainbowEverything": {
-    	"name": "Rainbow Everything",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/hylian-modding/ML64-ModRepo/Mods/RainbowEverything/update.json",
-    	"git": "https://github.com/hylian-modding/ML64-ModRepo"
+        "name": "Rainbow Everything",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/hylian-modding/ML64-ModRepo/Mods/RainbowEverything/update.json",
+        "git": "https://github.com/hylian-modding/ML64-ModRepo"
     },
     "RainbowTunic": {
-    	"name": "Rainbow Tunic",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/RainbowTunic/update.json",
-    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "name": "Rainbow Tunic",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/RainbowTunic/update.json",
+        "git": "https://github.com/Drahsid/Modloader64-Plugins"
     },
     "HPTunic": {
-    	"name": "HP Tunic",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/RainbowTunic/update.json",
-    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "name": "HP Tunic",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/RainbowTunic/update.json",
+        "git": "https://github.com/Drahsid/Modloader64-Plugins"
     },
     "FastLink": {
-    	"name": "Fast Link",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/FastLink/update.json",
-    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "name": "Fast Link",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/FastLink/update.json",
+        "git": "https://github.com/Drahsid/Modloader64-Plugins"
     },
     "BanjoKazooieQuakeMovement": {
-    	"name": "Banjo Kazooie Quake Physics",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/BanjoKazooieQuakeMovement/update.json",
-    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "name": "Banjo Kazooie Quake Physics",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/BanjoKazooieQuakeMovement/update.json",
+        "git": "https://github.com/Drahsid/Modloader64-Plugins"
     },
     "OotQuakeMovement": {
-    	"name": "Ocarina of Time Quake Physics",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/OotQuakeMovement/update.json",
-    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "name": "Ocarina of Time Quake Physics",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/OotQuakeMovement/update.json",
+        "git": "https://github.com/Drahsid/Modloader64-Plugins"
     },
     "SM64QuakeMovement": {
-    	"name": "Super Mario 64 Quake Physics",
-    	"category": "Gameplay Mods",
-    	"url": "https://github.com/Drahsid/Modloader64-Plugins/blob/master/SM64QuakeMovement/update.json",
-    	"git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "name": "Super Mario 64 Quake Physics",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/SM64QuakeMovement/update.json",
+        "git": "https://github.com/Drahsid/Modloader64-Plugins"
     },
     "Bombiwa": {
         "name": "Bombiwa",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/Bombiwa/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Bombiwa/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "Aria": {
         "name": "Aria The Demon",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/AriaTheDemon/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/AriaTheDemon/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "BladeNia": {
         "name": "Nia from Xenoblade",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/BladeNia/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/BladeNia/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "DarkLink": {
         "name": "Dark Link (OOT)",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/DarkLink/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/DarkLink/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "FierceDeity": {
         "name": "Fierce Deity (MM)",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/FierceDeity/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/FierceDeity/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "Kafei": {
         "name": "Kafei (MM)",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/Kafei/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Kafei/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "Linebeck": {
         "name": "Linebeck (PH)",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/Linebeck/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Linebeck/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "MegamanVolnutt": {
         "name": "Megaman Classic/Megaman Volnutt",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/MegamanVolnutt/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/MegamanVolnutt/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "PsiHate": {
         "name": "Psi-Hate",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/PsiHate/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/PsiHate/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "Tetra": {
         "name": "Tetra (WW)",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/Tetra/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Tetra/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
     "ToonLink": {
-        "name": "Toon Link (ww)",
+        "name": "Toon Link (WW)",
         "category": "Models",
-        "url": "https://github.com/hylian-modding/Z64-CustomPlayerModels/oot/PlayAsPackages/ToonLink/update.json",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/ToonLink/update.json",
         "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
     },
+    "Malon3DS": {
+        "name": "Malon (OOT3DS)",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/3DMalon/update.json",
+        "git": "https://github.com/Kimi-Stardust/Z64-CustomPlayerModels"
+    },
+    "Deity3DS": {
+        "name": "Fierce Deity (MM3DS)",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/3DFierceDeity/update.json",
+        "git": "https://github.com/CraftyBoss/Z64-CustomPlayerModels"
+    }
 }
