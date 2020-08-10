@@ -3,150 +3,314 @@
         "name": "Ocarina of Time Online",
         "category": "Games",
         "url": "https://nexus.inpureprojects.info/ModLoader64/mods/Ooto/update/update.json",
-        "git": "https://github.com/hylian-modding/OcarinaOfTimeOnline"
+        "git": "https://github.com/hylian-modding/OcarinaOfTimeOnline",
+        "description": "Ocarina of Time Online is an online multiplayer mod for The Legend of Zelda: Ocarina of Time.",
+        "image": "https://raw.githubusercontent.com/hylian-modding/OcarinaOfTimeOnline/master/src/OotOnline/icon.png"
     },
     "zzplayas_Malon": {
-        "name": "zzplayas Malon (N64)",
+        "name": "Malon (N64)",
         "category": "Models",
         "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/malon/update/update.json",
-        "git": ""
+        "git": "",
+        "description": "Malon is a recurring character in The Legend of Zelda series. In the majority of games she has appeared in, she is the daughter of the rancher Talon, who owns Lon Lon Ranch. Portrayed as a kind-hearted and responsible girl, Malon is often seen taking care of Epona, one of the Ranch's Horses. She also enjoys singing, specifically 'Epona's Song'.",
+        "image": "",
+        "author": "denoflions"
     },
     "zzplayas_MM": {
-        "name": "zzplayas Majora's Mask Link / Fierce Deity",
+        "name": "Majora's Mask Link / Fierce Deity",
         "category": "Models",
         "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/mm/update/update.json",
-        "git": ""
+        "git": "",
+        "description": "",
+        "image": "",
+        "author": "denoflions"
     },
     "zzplayas_PSO_nurse": {
-        "name": "zzplayas Phantasy Star Online Nurse",
+        "name": "Phantasy Star Online Nurse",
         "category": "Models",
         "url": "https://nexus.inpureprojects.info/ModLoader64/mods/zzplayas/pso_nurse/update/update.json",
-        "git": ""
+        "git": "",
+        "description": "",
+        "image": "",
+        "author": "denoflions"
     },
     "RainbowGauntlets": {
         "name": "Rainbow Gauntlets",
         "category": "Gameplay Mods",
-        "url": "https://raw.githubusercontent.com/hylian-modding/ML64-ModRepo/Mods/RainbowGauntlets/update.jsonupdate.json",
-        "git": "https://github.com/hylian-modding/ML64-ModRepo"
+        "url": "https://raw.githubusercontent.com/hylian-modding/ML64-ModRepo/Mods/RainbowGauntlets/update.json",
+        "git": "https://github.com/hylian-modding/ML64-ModRepo",
+        "description": "",
+        "image": "",
+        "author": "PapaSmurf"
     },
     "RainbowEverything": {
         "name": "Rainbow Everything",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/hylian-modding/ML64-ModRepo/Mods/RainbowEverything/update.json",
-        "git": "https://github.com/hylian-modding/ML64-ModRepo"
+        "git": "https://github.com/hylian-modding/ML64-ModRepo",
+        "description": "",
+        "image": "",
+        "author": "PapaSmurf"
     },
     "RainbowTunic": {
         "name": "Rainbow Tunic",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/RainbowTunic/update.json",
-        "git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "git": "https://github.com/Drahsid/Modloader64-Plugins",
+        "description": "",
+        "image": "",
+        "author": "Drahsid"
     },
     "HPTunic": {
         "name": "HP Tunic",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/RainbowTunic/update.json",
-        "git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "git": "https://github.com/Drahsid/Modloader64-Plugins",
+        "description": "",
+        "image": "",
+        "author": "Drahsid"
     },
     "FastLink": {
         "name": "Fast Link",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/FastLink/update.json",
-        "git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "git": "https://github.com/Drahsid/Modloader64-Plugins",
+        "description": "",
+        "image": "",
+        "author": "Drahsid"
     },
     "BanjoKazooieQuakeMovement": {
         "name": "Banjo Kazooie Quake Physics",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/BanjoKazooieQuakeMovement/update.json",
-        "git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "git": "https://github.com/Drahsid/Modloader64-Plugins",
+        "description": "",
+        "image": "",
+        "author": "Drahsid"
     },
     "OotQuakeMovement": {
         "name": "Ocarina of Time Quake Physics",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/OotQuakeMovement/update.json",
-        "git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "git": "https://github.com/Drahsid/Modloader64-Plugins",
+        "description": "",
+        "image": "",
+        "author": "Drahsid"
     },
     "SM64QuakeMovement": {
         "name": "Super Mario 64 Quake Physics",
         "category": "Gameplay Mods",
         "url": "https://raw.githubusercontent.com/Drahsid/Modloader64-Plugins/master/SM64QuakeMovement/update.json",
-        "git": "https://github.com/Drahsid/Modloader64-Plugins"
+        "git": "https://github.com/Drahsid/Modloader64-Plugins",
+        "description": "",
+        "image": "",
+        "author": "Drahsid"
     },
     "Bombiwa": {
         "name": "Bombiwa",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Bombiwa/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Bombiwa",
+        "image": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/img/Bombiwa.png",
+        "author": "Psi-Hate"
     },
     "Aria": {
         "name": "Aria The Demon",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/AriaTheDemon/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "Aria"
     },
     "BladeNia": {
         "name": "Nia from Xenoblade",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/BladeNia/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Nia is one of the main playable characters in Xenoblade Chronicles 2. She is a Gormotti Driver and is accompanied by her special Blade, Dromarch, who calls her 'Lady' like a butler. She comes from the Gormott Province. Originally a member of Torna, she defects to Rex after Pyra's awakening.",
+        "image": "",
+        "author": "Psi-Hate"
     },
     "DarkLink": {
         "name": "Dark Link (OOT)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/DarkLink/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Dark Link is a dark reflection of Link. He is one of the most enigmatic enemy characters in the The Legend of Zelda series, usually appearing with no backstory and no dialogue, although it is implied on numerous occasions to be merely constructed of shadow magic. Dark Link is more than just a mere battle against a monster for Link, but a battle against himself, as the young hero has to face his own strength turned against him.",
+        "image": "",
+        "author": "CrookedPoe"
     },
     "FierceDeity": {
         "name": "Fierce Deity (MM)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/FierceDeity/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "CrookedPoe"
     },
     "Kafei": {
         "name": "Kafei (MM)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Kafei/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "CrookedPoe"
     },
     "Linebeck": {
         "name": "Linebeck (PH)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Linebeck/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "Psi-Hate"
     },
     "MegamanVolnutt": {
         "name": "Megaman Classic/Megaman Volnutt",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/MegamanVolnutt/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "Psi-Hate"
     },
     "PsiHate": {
         "name": "Psi-Hate",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/PsiHate/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "Psi-Hate"
     },
     "Tetra": {
         "name": "Tetra (WW)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Tetra/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "Psi-Hate"
     },
     "ToonLink": {
         "name": "Toon Link (WW)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/ToonLink/update.json",
-        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/"
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "image": "",
+        "description": "Link is the main protagonist of the Legend of Zelda series. He is the everlasting hero of the setting, having appeared throughout the ages in a never-ending line of incarnations. The various heroes who use the name Link are courageous young boys or teenagers, often in green clothing, who leave their homes to save the world from evil forces threatening it.",
+        "author": "Psi-Hate"
     },
     "Malon3DS": {
         "name": "Malon (OOT3DS)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/3DMalon/update.json",
-        "git": "https://github.com/Kimi-Stardust/Z64-CustomPlayerModels"
+        "git": "https://github.com/Kimi-Stardust/Z64-CustomPlayerModels",
+        "description": "",
+        "image": "",
+        "author": "Kimi-Stardust"
     },
     "Deity3DS": {
         "name": "Fierce Deity (MM3DS)",
         "category": "Models",
         "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/3DFierceDeity/update.json",
-        "git": "https://github.com/CraftyBoss/Z64-CustomPlayerModels"
+        "git": "https://github.com/CraftyBoss/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "CraftyBoss"
+    },
+    "MMLink": {
+        "name": "Link (MM)",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/MMYoungLink/update.json",
+        "git": "https://github.com/Neirn/Z64-CustomPlayerModels/",
+        "description": "Link is the main protagonist of the Legend of Zelda series. He is the everlasting hero of the setting, having appeared throughout the ages in a never-ending line of incarnations. The various heroes who use the name Link are courageous young boys or teenagers, often in green clothing, who leave their homes to save the world from evil forces threatening it.",
+        "image": "",
+        "author": ""
+    },
+    "CustomTunicRedux": {
+        "name": "Custom Tunic Redux",
+        "category": "Gameplay Mods",
+        "url": "https://raw.githubusercontent.com/hylian-modding/CustomTunicRedux/master/update.json",
+        "git": "https://github.com/hylian-modding/CustomTunicRedux/",
+        "description": "",
+        "image": "",
+        "author": "denoflions"
+    },
+    "ThiccMalon": {
+        "name": "Thicc Malon",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/ThiccMalon/update.json",
+        "git": "https://github.com/Kimi-Stardust/Z64-CustomPlayerModels/",
+        "description": "",
+        "image": "",
+        "author": "Kimi-Stardust"
+    },
+    "3DSLink": {
+        "name": "Link (OOT3DS)",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/3DSLink/update.json",
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Link is the main protagonist of the Legend of Zelda series. He is the everlasting hero of the setting, having appeared throughout the ages in a never-ending line of incarnations. The various heroes who use the name Link are courageous young boys or teenagers, often in green clothing, who leave their homes to save the world from evil forces threatening it.",
+        "image": "",
+        "author": ""
+    },
+    "BOTWLink": {
+        "name": "Link (BOTW)",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/BOTWLink/update.json",
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Link is the main protagonist of the Legend of Zelda series. He is the everlasting hero of the setting, having appeared throughout the ages in a never-ending line of incarnations. The various heroes who use the name Link are courageous young boys or teenagers, often in green clothing, who leave their homes to save the world from evil forces threatening it.",
+        "image": "",
+        "author": ""
+    },
+    "Chrono": {
+        "name": "Chrono",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/ThiccMalon/update.json",
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Chrono is the silent protagonist in Chrono Trigger. He lives with his mother in Truce in the Present. His personality matches that of the conventional hero archetype and he is willing to place his life on the line for the sake of others.",
+        "image": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/img/Chrono.png",
+        "author": "Skilar"
+    },
+    "Cloud": {
+        "name": "Cloud",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Cloud/update.json",
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "An arrogant and proud swordsman at first, Cloud introduces himself to Avalanche as a former member of an elite warrior unit called SOLDIER who has turned mercenary, and uninterested in anything beyond his hired task at hand. He later discovers more about his past and, with the help of his friends, learns there is more to being a hero than possessing physical strength and fame, developing compassion for the planet and people he fights to protect. He fights to protect the planet against his nemesis, Sephiroth.",
+        "image": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/img/Cloud.png",
+        "author": "Skilar"
+    },
+    "Dampe": {
+        "name": "Dampé the Gravekeeper",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/Dampe/update.json",
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Dampé is a recurring character in the Legend of Zelda series. He is a mysterious old man who works as a gravekeeper. His appearance is often considered intimidating, but he claims that, despite this, he is not 'a bad guy.'",
+        "image": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/img/Dampe.png",
+        "author": "Psi-Hate"
+    },
+    "ATTPLink": {
+        "name": "Link (ALTTP)",
+        "category": "Models",
+        "url": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/PlayAsPackages/OR_LA_ATTPLink/update.json",
+        "git": "https://github.com/hylian-modding/Z64-CustomPlayerModels/",
+        "description": "Link is the main protagonist of the Legend of Zelda series. He is the everlasting hero of the setting, having appeared throughout the ages in a never-ending line of incarnations. The various heroes who use the name Link are courageous young boys or teenagers, often in green clothing, who leave their homes to save the world from evil forces threatening it.",
+        "image": "https://raw.githubusercontent.com/hylian-modding/Z64-CustomPlayerModels/master/oot/img/OR_LA_ATTPLink.png",
+        "author": "Skilar"
+    },
+    "": {
+        "name": "",
+        "category": "",
+        "url": "",
+        "git": "",
+        "description": "",
+        "image": "",
+        "author": ""
     }
 }
